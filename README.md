@@ -8,7 +8,7 @@ _Hannah Brown_
 _Narges Norouzi_
 
 
-This repository is for Hannah Brown's Data Science Honors Thesis at UC Berkeley.
+This repository is for Hannah Brown's Data Science Honors Thesis at UC Berkeley. It includes all the code, surveys, and data involved in the research. The work took place over a course of the 2024-2025 school year and was centered on the study of the effect of LLM tutors on undergraduates at UC Berkeley. Hannah is graduating Spring 2025 with a Data Science B.A. from UC Berkeley.
 
 ## Directory Structure
 
